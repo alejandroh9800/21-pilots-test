@@ -1,4 +1,8 @@
  header {
   display: block;
-  background-color: blue;
+}
+
+footer{
+  display: block;
+  margin-top: auto;
 }
