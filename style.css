@@ -5,7 +5,8 @@ header {
   height: 200px;
   margin: 0;
   box-shadow: 0 3px 5px rgba(57, 63, 72, 0.3);
-  width:100%; 
+  width: 100%; 
+  padding: 0;
 }
 
 footer{
@@ -29,12 +30,7 @@ body{
   padding: 1em;
   background-color: white;
   margin-top: 32px;
-  gap: 32px;
-}
-  
-.top-logo{
-  height: 180px;
-  width: auto;
+  gap: 2px;
 }
 
 .album{
@@ -42,4 +38,8 @@ body{
   align-self: center;
   justify-content: center;
   margin-right: 1%;
+}
+
+.top-logo{
+  height: 150px;
 }
