@@ -42,11 +42,11 @@ footer{
 }
 
 body {
-  background-image: url('https://www.twentyonepilots.com/sites/g/files/g2000004896/f/202111/DesktopBgnew1.png');
+  background-image: url('https://cdn.glitch.global/6135496d-e9d1-4269-85a8-5eca40d122c0/backg.jpg?v=1644271555309');
   background-repeat: no-repeat;
   background-attachment: fixed;  
   background-size: cover;
-  background-size: 230% 230%;
+  background-size: 100% 100%;
 }
 
 a {
