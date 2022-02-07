@@ -56,11 +56,21 @@ a {
 
 .spotify-logo{
   width: 120px;
+  align-self: center;
 }
 
 .blurry-cover{
   height: auto;
   width: 315px;
+  align-self: center;
 }
 
-.shy-away{}
+.shy-away{
+  margin-left: 8%;
+  margin-right: 8%;
+  padding: 1em;
+}
+
+p {
+  line-height: 2 ;
+} 
