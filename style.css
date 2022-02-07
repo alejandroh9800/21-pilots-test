@@ -21,11 +21,11 @@ body{
   display: flex;
   flex-direction: column;
   justify-content: center;
-  align-items: center;
-  background-color: white;
+  align-items: left;
   margin-right: 100px;
   margin-left: 100px;
   padding: 1em;
+  background-color: light-white;
 }
   
 .top-logo{
