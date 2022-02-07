@@ -16,10 +16,6 @@ footer{
   padding: 8px 16px;
 }
 
-body{
-  background-color: pink;
-
-}
 .info{
   display: flex;
   flex-direction: column;
@@ -28,9 +24,10 @@ body{
   margin-right: 100px;
   margin-left: 100px;
   padding: 1em;
-  background-color: white;
+  background-color: none;
   margin-top: 32px;
   gap: 2px;
+  background: rgba(255, 255, 255, 0.8);
 }
 
 .album{
@@ -49,4 +46,10 @@ body {
   background-repeat: no-repeat;
   background-attachment: fixed;  
   background-size: cover;
+  background-size: 100% 250%;
 }
+
+a {
+    color: #FFFFFF;
+    text-decoration: none;
+  }
