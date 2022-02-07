@@ -55,5 +55,12 @@ a {
   }
 
 .spotify-logo{
-  width: 30px;
+  width: 120px;
 }
+
+.blurry-cover{
+  height: auto;
+  width: 315px;
+}
+
+.shy-away{}
