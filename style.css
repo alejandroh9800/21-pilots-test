@@ -46,10 +46,14 @@ body {
   background-repeat: no-repeat;
   background-attachment: fixed;  
   background-size: cover;
-  background-size: 100% 250%;
+  background-size: 230% 230%;
 }
 
 a {
     color: #FFFFFF;
     text-decoration: none;
   }
+
+hr.solid {
+  border: 3px solid #bbbbbb;
+}
