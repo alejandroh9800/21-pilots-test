@@ -44,3 +44,9 @@ body{
   height: 150px;
 }
 
+body {
+  background-image: url('https://www.twentyonepilots.com/sites/g/files/g2000004896/f/202111/DesktopBgnew1.png');
+  background-repeat: no-repeat;
+  background-attachment: fixed;  
+  background-size: cover;
+}
