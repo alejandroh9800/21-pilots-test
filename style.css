@@ -1,6 +1,6 @@
- header {
-  display: block;
-}
+header {
+  display: flex;
+   background-color: 
 
 footer{
   display: block;
@@ -8,4 +8,9 @@ footer{
 
 body{
   background-color: pink;
+}
+
+.top-logo{
+  height: 300px;
+  width: auto;
 }
