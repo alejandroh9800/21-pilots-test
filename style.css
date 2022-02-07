@@ -75,3 +75,8 @@ a {
 p {
   line-height: 2 ;
 } 
+
+.blurry-spotify{
+  display: flex;
+  flex-direction: row;
+}
