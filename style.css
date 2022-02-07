@@ -17,12 +17,23 @@ body{
 content{
   display: flex;
 }
+
+.info{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-
+}
   
 .top-logo{
-  display: flex;
   height: 180px;
   width: auto;
+}
+
+.album{
+  display: flex;
   align-self: center;
   justify-content: center;
+  margin-right: 1%;
 }
 
