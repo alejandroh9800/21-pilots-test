@@ -18,8 +18,8 @@ footer{
 
 body{
   background-color: pink;
-}
 
+}
 .info{
   display: flex;
   flex-direction: column;
@@ -43,3 +43,4 @@ body{
 .top-logo{
   height: 150px;
 }
+
