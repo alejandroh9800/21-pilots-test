@@ -1,7 +1,12 @@
 .album-title{
+  display: flex;
   color: black;
   background-color: white;
-  text-align
+  font-size: large;
+  height: 69px;
+  justify-content: center;
+  align-items: center;
+  font-family: futura;
 }
 .scaled-icy-spot-wrapper{
   display: flex;
