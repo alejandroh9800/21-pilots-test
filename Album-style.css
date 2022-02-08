@@ -62,12 +62,11 @@
   justify-content: space-between; 
   align-self: center;
   margin-top: 5%;
-
 }
 
 .trench-cover{
-  width: 100%;
-  height: 100%;
+  width: 80%;
+  height: auto;
   align-self: center;
 }
 
@@ -84,8 +83,8 @@
 }
 
 .blurryface-cover{ 
-  width: 100%;
-  height: 100%;
+  width: 80%;
+  height: auto;
   align-self: center;
 
 }
@@ -95,7 +94,6 @@
   margin-top: 4%;
   width: 100%;
   align-self: center;
-
 } 
 
 .vessel-album{
@@ -106,8 +104,8 @@
 } 
 
 .vessel-cover{
-  width: 100%;
-  height: 100%;
+  width: 80%;
+  height: auto;
   align-self: center;
 }
 
@@ -122,8 +120,8 @@
   padding-top: 10%;
 }
 .selftitled-cover{
-  width: 100%;
-  height: 100%;
+  width: 80%;
+  height: auto;
   background-color: white;
 }
 .selftitled-spotify{
