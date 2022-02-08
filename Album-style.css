@@ -1,7 +1,16 @@
 div{
   color: black;
 }
-content{
+.scaled-icy-spot-wrapper{
   display: flex;
   flex-direction: row;
+  align-items: left;
+}
+.scaled-icy-cover{
+  height: auto;
+  width: 100%;
+  margin-left: 8%;
+}
+.spot-scaled-playlist{
+  border: none;
 }
