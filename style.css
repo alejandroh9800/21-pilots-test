@@ -72,7 +72,7 @@ a {
 .blurry-cover{
   height: 350px;
   width: auto;
-  margin-left: 4%;
+  margin-left: 2%;
   align-self: center;
   
 }
@@ -98,8 +98,10 @@ p {
 .spot-frame{
   margin-left: 2px;
   margin-right: 4%;
-  height: 320px;
+  height: 350px;
   width: 100%;
+  border: none;
+
 }
 
 .title{
@@ -108,6 +110,6 @@ p {
 
 .trash-the-drag{
   align-self: center;
-  height
-  
+  height: auto;
+  width: 260px;
 }

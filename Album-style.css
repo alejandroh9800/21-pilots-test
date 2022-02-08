@@ -8,6 +8,9 @@
   align-items: center;
   font-family: 'Jost', sans-serif;
   background-image: url('https://cdn.glitch.global/6135496d-e9d1-4269-85a8-5eca40d122c0/backg.jpg?v=1644271555309');
+  a:hover {
+  background-color: yellow;
+}
 }
 .scaled-icy-spot-wrapper{
   display: flex;
