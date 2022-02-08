@@ -69,4 +69,17 @@
 
 .trech-spotify{ 
   border: none;
+  margin-left: 8%;
+  margin-right: 8%;
+  padding: 1em;
+}
+.blurryface-album{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between; 
+}
+
+.blurryface-cover{ 
+  width: 100%;
+  height: 100%;
 }
