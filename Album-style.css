@@ -63,17 +63,15 @@
 }
 
 .trench-cover{
-  width: 450px;
-  height: auto;
+  width: auto;
+  height: 500px;
 }
 
-.trech-spotify{ 
+.trench-spotify{ 
   border: none;
-  margin-right: 8%;
-  padding: 2em;
-  width: 100%;
-  height: 300px;
-  margin-top: 10%;
+  width: auto;
+  height: 100%;
+  margin-top: 4%;
 }
 .blurryface-album{
   display: flex;
@@ -83,12 +81,16 @@
 }
 
 .blurryface-cover{ 
-  width: auto;
+  width: 100%;
   height: 100%;
 }
 
 .blurryface-spotify{
   border: none; 
+  margin-top: 4%;
+  height: auto;
+  width: 100%;
+  
 } 
 
 .vessel-album{
@@ -98,3 +100,11 @@
   align-self: center;
 } 
 
+.vessel-cover{
+  width: auto;
+  height: 100%;
+}
+
+.vessel-spotify{
+  border: none; 
+}
