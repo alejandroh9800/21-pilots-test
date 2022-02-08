@@ -1,6 +1,6 @@
 .album-title{
   display: flex;
-  font-size: x-large;
+  font-size: xx-large;
   height: 69px;
   justify-content: center;
   align-items: center;
@@ -8,6 +8,7 @@
   /*background-image: url('#');*/
   background-color: black;
   color: white;
+  margin-top: 1%;
 }
 .scaled-icy-spot-wrapper{
   display: flex;
@@ -29,5 +30,12 @@
 
 .album-title:hover {
   background-color: yellow;
-  color: cyan;
+  color: black;
+}
+
+.ned{
+  height: 25px;
+  width: auto;
+  align-self: center;
+  justify-self: right;
 }
