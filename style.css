@@ -5,7 +5,13 @@ body{
  
    min-height:900px;        /* Suppose you want minimum width of 1000px */
    height: auto !important;  /* Firefox will set width as auto */
-   height:1000px;            /* As IE6 ignores !important it will set width as 1000px; */
+   height:900px;            /* As IE6 ignores !important it will set width as 1000px; */
+  
+  background-image: url('https://cdn.glitch.global/6135496d-e9d1-4269-85a8-5eca40d122c0/backg.jpg?v=1644271555309');
+  background-repeat: no-repeat;
+  background-attachment: fixed;  
+  background-size: cover;
+  background-size: 100% 100%;
 }
 
 
@@ -50,14 +56,6 @@ footer{
 
 .top-logo{
   height: 100px;
-}
-
-body {
-  background-image: url('https://cdn.glitch.global/6135496d-e9d1-4269-85a8-5eca40d122c0/backg.jpg?v=1644271555309');
-  background-repeat: no-repeat;
-  background-attachment: fixed;  
-  background-size: cover;
-  background-size: 100% 100%;
 }
 
 a {
@@ -106,4 +104,10 @@ p {
 
 .title{
   font-size: 30px;
+}
+
+.trash-the-drag{
+  align-self: center;
+  height
+  
 }
