@@ -60,17 +60,24 @@
   display: flex;
   flex-direction: row;
   justify-content: space-between; 
+  align-self: center;
+  margin-top: 5%;
+
 }
 
 .trench-cover{
-  width: 50%;
-  height: 50%;
+  width: 100%;
+  height: 100%;
+  align-self: center;
+  p
+
 }
 
 .trench-spotify{ 
   border: none;
-  margin-top: 4%;
+  align-self: center;
 }
+
 .blurryface-album{
   display: flex;
   flex-direction: row;
@@ -113,9 +120,10 @@
   flex-direction: row;
   justify-content: space-between; 
   align-self: center;
+  padding-top: 10%;
 }
 .selftitled-cover{
-  width: auto;
+  width: 100%;
   height: 100%;
   background-color: white;
 }
