@@ -64,7 +64,7 @@
 
 .trench-cover{
   width: auto;
-  height: 500px;
+  height: 450px;
 }
 
 .trench-spotify{ 
@@ -83,14 +83,16 @@
 .blurryface-cover{ 
   width: 100%;
   height: 100%;
+  align-self: center;
+
 }
 
 .blurryface-spotify{
   border: none; 
   margin-top: 4%;
-  height: auto;
   width: 100%;
-  
+  align-self: center;
+
 } 
 
 .vessel-album{
@@ -107,4 +109,14 @@
 
 .vessel-spotify{
   border: none; 
+}
+.selftitled-album{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between; 
+  align-self: center;
+}
+.selftitled-cover{
+  width: auto;
+  height: 100%;
 }
