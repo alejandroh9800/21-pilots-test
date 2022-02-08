@@ -4,7 +4,6 @@ div{
 .scaled-icy-spot-wrapper{
   display: flex;
   flex-direction: row;
-  align-items: left;
   justify-content: space-between;
 }
 .scaled-icy-cover{
