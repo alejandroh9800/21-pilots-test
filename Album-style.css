@@ -63,23 +63,38 @@
 }
 
 .trench-cover{
-  width: 100%;
-  height: 100%;
+  width: 450px;
+  height: auto;
 }
 
 .trech-spotify{ 
   border: none;
-  margin-left: 8%;
   margin-right: 8%;
-  padding: 1em;
+  padding: 2em;
+  width: 100%;
+  height: 300px;
+  margin-top: 10%;
 }
 .blurryface-album{
   display: flex;
   flex-direction: row;
   justify-content: space-between; 
+  align-self: center;
 }
 
 .blurryface-cover{ 
-  width: 100%;
+  width: auto;
   height: 100%;
 }
+
+.blurryface-spotify{
+  border: none; 
+} 
+
+.vessel-album{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between; 
+  align-self: center;
+} 
+
