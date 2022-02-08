@@ -1,5 +1,8 @@
-.page
-
+.page-container{
+  margin-right: 2%;
+  position: relative;
+  min-height: 100vh;
+}
 .album-title{
   display: flex;
   font-size: xx-large;
@@ -19,7 +22,7 @@
 }
 .scaled-icy-cover{
   height: 100%;
-  width: 100%;
+  width: auto;
   margin-top: 4%;
 }
 .spot-scaled-playlist{
@@ -27,7 +30,6 @@
   margin-top: 4%;
   height: auto;
   width: 100%;
-  margin-right: 2%;
 }
 
 .album-title:hover {
@@ -47,11 +49,6 @@
   position: absolute;
   bottom: 0;
   width: 100%;
-}
-
-.page-container {
-  position: relative;
-  min-height: 100vh;
 }
 
 .content-wrap {
@@ -85,7 +82,7 @@
 }
 
 .blurryface-cover{ 
-  width: 80%;
+  width: 100%;
   height: auto;
   align-self: center;
 
@@ -106,7 +103,7 @@
 } 
 
 .vessel-cover{
-  width: 85%;
+  width: 100%;
   height: auto;
   align-self: center;
 }
@@ -122,7 +119,7 @@
   padding-top: 10%;
 }
 .selftitled-cover{
-  width: 80%;
+  width: 100%;
   height: auto;
 }
 .selftitled-spotify{
