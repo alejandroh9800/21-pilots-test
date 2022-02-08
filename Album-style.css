@@ -5,12 +5,15 @@ div{
   display: flex;
   flex-direction: row;
   align-items: left;
+  justify-content: space-evenly;
 }
 .scaled-icy-cover{
   height: auto;
   width: 100%;
   margin-left: 8%;
+  margin-top: 4%;
 }
 .spot-scaled-playlist{
   border: none;
+  margin-top: 4%;
 }
