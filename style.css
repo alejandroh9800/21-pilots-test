@@ -66,10 +66,11 @@ a {
   align-self: center;
 }
 
-.shy-away{
+iframe{
   margin-left: 8%;
   margin-right: 8%;
   padding: 1em;
+  height: 500px;
 }
 
 p {
