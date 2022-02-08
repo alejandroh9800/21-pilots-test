@@ -60,7 +60,6 @@
   flex-direction: row;
   justify-content: space-between; 
   align-self: center;
-  margin-top: 5%;
 }
 
 .trench-cover{
@@ -72,6 +71,7 @@
 .trench-spotify{ 
   border: none;
   align-self: center;
+  margin-top: 2%;
 }
 
 .blurryface-album{
@@ -103,7 +103,7 @@
 } 
 
 .vessel-cover{
-  width: 100%;
+  width: 95%;
   height: auto;
   align-self: center;
 }
