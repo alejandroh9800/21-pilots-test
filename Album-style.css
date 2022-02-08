@@ -55,3 +55,9 @@
 .content-wrap {
   padding-bottom: 2.5rem;    /* Footer height */
 }
+
+.trench_album{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between; 
+}
