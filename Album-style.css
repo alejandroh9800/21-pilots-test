@@ -1,16 +1,14 @@
 .album-title{
   display: flex;
-  color: white;
-  background-color: white;
   font-size: large;
   height: 69px;
   justify-content: center;
   align-items: center;
   font-family: 'Jost', sans-serif;
-  background-image: url('https://cdn.glitch.global/6135496d-e9d1-4269-85a8-5eca40d122c0/backg.jpg?v=1644271555309');
-  a:hover {
-  background-color: yellow;
-}
+  /*background-image: url('#');*/
+  background-color: pink;
+  color: white;
+
 }
 .scaled-icy-spot-wrapper{
   display: flex;
@@ -28,4 +26,9 @@
   margin-top: 4%;
   height: auto;
   width: 100%;
+}
+
+.album-title:hover {
+  background-color: yellow;
+  color: cyan;
 }
