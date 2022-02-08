@@ -63,14 +63,12 @@
 }
 
 .trench-cover{
-  width: auto;
-  height: 450px;
+  width: 50%;
+  height: 50%;
 }
 
 .trench-spotify{ 
   border: none;
-  width: auto;
-  height: 100%;
   margin-top: 4%;
 }
 .blurryface-album{
@@ -119,4 +117,8 @@
 .selftitled-cover{
   width: auto;
   height: 100%;
+  background-color: white;
+}
+.selftitled-spotify{
+  border: none; 
 }
