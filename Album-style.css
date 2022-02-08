@@ -1,14 +1,13 @@
 .album-title{
   display: flex;
-  font-size: large;
+  font-size: x-large;
   height: 69px;
   justify-content: center;
   align-items: center;
   font-family: 'Jost', sans-serif;
   /*background-image: url('#');*/
-  background-color: pink;
+  background-color: black;
   color: white;
-
 }
 .scaled-icy-spot-wrapper{
   display: flex;
