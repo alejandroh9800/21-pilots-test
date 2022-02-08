@@ -2,7 +2,7 @@ header {
   display: flex;
   background-color: #fc7fb4;
   justify-content: space-between;
-  height: 200px;
+  height: 150px;
   margin: 0;
   box-shadow: 0 3px 5px rgba(57, 63, 72, 0.3);
   width: 100%; 
@@ -38,7 +38,7 @@ footer{
 }
 
 .top-logo{
-  height: 150px;
+  height: 100px;
 }
 
 body {
@@ -63,7 +63,7 @@ a {
 .blurry-cover{
   height: 350px;
   width: auto;
-  margin-left: 5%;
+  margin-left: 4%;
   align-self: center;
   
 }
@@ -83,10 +83,13 @@ p {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
+  padding: 1em;
 }
 
 .spot-frame{
   margin-left: 2px;
-  height: 4=300px;
+  margin-right: 4%;
+  height: 320px;
+  width: 100%;
 }
 
