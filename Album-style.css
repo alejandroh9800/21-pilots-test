@@ -7,7 +7,6 @@ body{
    height: auto !important;  /* Firefox will set width as auto */
    height:900px;    /* As IE6 ignores !important it will set width as 1000px; */
   
-  margin-left: 2%
     }
   
 .page-container{
@@ -116,15 +115,13 @@ body{
 .vessel-spotify{
   border: none;
   margin-top: 4%;
-  height: auto;
   width: 100%;
 }
 .selftitled-album{
   display: flex;
   flex-direction: row;
   justify-content: space-between; 
-  align-self: center;
-  padding-top: 10%;
+  margin-top: 4%;
 }
 .selftitled-cover{
   width: auto;
@@ -136,6 +133,6 @@ body{
 }
 
 iframe{
-  margin-right: 2%;
+  margin-right: 4%;
 }
 
