@@ -20,9 +20,8 @@
   justify-content: space-between;
 }
 .scaled-icy-cover{
-  height: 100%;
   width: auto;
-  margin-top: 4%;
+  margin-top: 4%
 }
 .spot-scaled-playlist{
   border: none;
@@ -62,8 +61,7 @@
 }
 
 .trench-cover{
-  width: 100%;
-  height: auto;
+  width: auto;
   align-self: center;
 }
 
@@ -82,8 +80,7 @@
 }
 
 .blurryface-cover{ 
-  width: 100%;
-  height: auto;
+  width: auto;
   align-self: center;
 
 }
@@ -99,13 +96,10 @@
   display: flex;
   flex-direction: row;
   justify-content: space-between; 
-  align-self: center;
 } 
 
 .vessel-cover{
-  width: 95%;
-  height: auto;
-  align-self: center;
+  width: auto;
 }
 .vessel-spotify{
   border: none;
@@ -121,8 +115,7 @@
   padding-top: 10%;
 }
 .selftitled-cover{
-  width: 100%;
-  height: auto;
+  width: auto;
 }
 .selftitled-spotify{
   border: none;
@@ -135,3 +128,6 @@ iframe{
   margin-right: 2%;
 }
 
+.body{
+  margin-left: 2%;
+}
