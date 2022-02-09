@@ -1,3 +1,15 @@
+body{
+   min-width:900px;        /* Suppose you want minimum width of 1000px */
+   width: auto !important;  /* Firefox will set width as auto */
+   width:900px;            /* As IE6 ignores !important it will set width as 1000px; */
+ 
+   min-height:900px;        /* Suppose you want minimum width of 1000px */
+   height: auto !important;  /* Firefox will set width as auto */
+   height:900px;    /* As IE6 ignores !important it will set width as 1000px; */
+  
+  margin-left: 2%
+    }
+  
 .page-container{
   position: relative;
   min-height: 100vh;
@@ -87,7 +99,6 @@
 
 .blurryface-spotify{
   border: none;
-  margin-top: 4%;
   height: auto;
   width: 100%;
 } 
@@ -100,6 +111,7 @@
 
 .vessel-cover{
   width: auto;
+  align-self: center;
 }
 .vessel-spotify{
   border: none;
@@ -119,7 +131,6 @@
 }
 .selftitled-spotify{
   border: none;
-  margin-top: 4%;
   height: auto;
   width: 100%;
 }
@@ -128,6 +139,3 @@ iframe{
   margin-right: 2%;
 }
 
-.body{
-  margin-left: 2%;
-}
