@@ -1,5 +1,4 @@
 .page-container{
-  margin-right: 2%;
   position: relative;
   min-height: 100vh;
 }
@@ -70,8 +69,9 @@
 
 .trench-spotify{ 
   border: none;
-  align-self: center;
-  margin-top: 50px;
+  margin-top: 4%;
+  height: auto;
+  width: 100%;
 }
 
 .blurryface-album{
@@ -89,10 +89,10 @@
 }
 
 .blurryface-spotify{
-  border: none; 
+  border: none;
   margin-top: 4%;
+  height: auto;
   width: 100%;
-  align-self: center;
 } 
 
 .vessel-album{
@@ -107,9 +107,11 @@
   height: auto;
   align-self: center;
 }
-
 .vessel-spotify{
-  border: none; 
+  border: none;
+  margin-top: 4%;
+  height: auto;
+  width: 100%;
 }
 .selftitled-album{
   display: flex;
@@ -123,8 +125,13 @@
   height: auto;
 }
 .selftitled-spotify{
-  border: none; 
+  border: none;
+  margin-top: 4%;
+  height: auto;
+  width: 100%;
 }
-.trench-spotify{
-  margin-top: 50px;
+
+iframe{
+  margin-right: 2%;
 }
+
